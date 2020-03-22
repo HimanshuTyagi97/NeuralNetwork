@@ -1,4 +1,4 @@
-# NeuralNetwork
+# Neural Network
 Create a Neural Network using R and Keras to help in better prediction of statistical data.
 
 The libraries and the explanation of the code and why the particular step is carried is described as comments in the program code.
